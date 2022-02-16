@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/585ba3fe9e7bc589a49d7318c0f123a8_2003_final_solns.pdf
+file: /media/courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/585ba3fe9e7bc589a49d7318c0f123a8_2003_final_solns.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 2003_final_solns.pdf
 uid: 585ba3fe-9e7b-c589-a49d-7318c0f123a8

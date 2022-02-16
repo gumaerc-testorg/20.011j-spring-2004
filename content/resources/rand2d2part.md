@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/d4896ee534bb5553398e7d58eb447265_rand2d2part.m
+file: /media/courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/d4896ee534bb5553398e7d58eb447265_rand2d2part.m
 file_type: text/x-objcsrc
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Simulations
+parent_type: CourseSection
 resourcetype: Other
 title: rand2d2part.m
 uid: d4896ee5-34bb-5553-398e-7d58eb447265

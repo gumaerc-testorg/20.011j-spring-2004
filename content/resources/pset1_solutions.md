@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/aad318ecefb02735eb3c7416e336e531_pset1_solutions.pdf
+file: /media/courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/aad318ecefb02735eb3c7416e336e531_pset1_solutions.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset1_solutions.pdf
 uid: aad318ec-efb0-2735-eb3c-7416e336e531
