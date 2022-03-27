@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Simulations
 parent_type: CourseSection
+parent_uid: d6d9dedf-c870-e00c-c617-07fadc378ebf
 resourcetype: Other
 title: pcr_sim.fig
 uid: 525555d0-96dc-9f8c-8ddc-9ba561128f90

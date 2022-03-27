@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 85b5f0c1-bb82-b1ea-a620-c1ada13fd0ba
 resourcetype: Document
 title: 2003_quiz3_solns.pdf
 uid: 69835811-e054-3da8-534a-1820fd0c10f7

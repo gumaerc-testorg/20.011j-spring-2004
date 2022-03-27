@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Simulations
 parent_type: CourseSection
+parent_uid: d6d9dedf-c870-e00c-c617-07fadc378ebf
 resourcetype: Other
 title: rand2d.m
 uid: bc7ea306-c784-c8f9-85a5-feeca6eb5d1c
