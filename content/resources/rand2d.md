@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/bc7ea306c784c8f985a5feeca6eb5d1c_rand2d.m
+file: /courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/bc7ea306c784c8f985a5feeca6eb5d1c_rand2d.m
 file_type: text/x-objcsrc
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Simulations
 parent_type: CourseSection

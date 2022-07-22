@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/9542b606b7916b5922301c965c39eb56_2003_quiz1_solns.pdf
+file: /courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/9542b606b7916b5922301c965c39eb56_2003_quiz1_solns.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
