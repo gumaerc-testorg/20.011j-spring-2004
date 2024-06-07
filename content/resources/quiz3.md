@@ -2,6 +2,7 @@
 content_type: resource
 description: Quiz problems.
 file: /courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/815526a07c96c4e299fb7f8e2f189a07_quiz3.pdf
+file_size: 346360
 file_type: application/pdf
 learning_resource_types:
 - Exams
