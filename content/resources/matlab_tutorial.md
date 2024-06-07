@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/b398f04194a79035376fec05b2d20c5f_matlab_tutorial.pdf
+file_size: 166660
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
