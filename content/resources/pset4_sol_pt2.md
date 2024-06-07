@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/3832f1c1d99ada31d54e4ef6d434227c_pset4_sol_pt2.pdf
+file_size: 39416
 file_type: application/pdf
 learning_resource_types:
 - Assignments
