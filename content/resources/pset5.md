@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set assignment.
-file: /courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/41c838faff930cd517ddacf98fef7904_pset5.pdf
+file: /ol-ocw-studio-app/courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/41c838faff930cd517ddacf98fef7904_pset5.pdf
 file_size: 262293
 file_type: application/pdf
 learning_resource_types:
