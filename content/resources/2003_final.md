@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam problems.
-file: /ol-ocw-studio-app/courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/91fea08ae0702a62b562a3e5a61b999c_2003_final.pdf
+file: /courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/91fea08ae0702a62b562a3e5a61b999c_2003_final.pdf
 file_size: 212006
 file_type: application/pdf
 learning_resource_types:

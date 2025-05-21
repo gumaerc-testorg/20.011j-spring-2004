@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review problems for Quiz 1.
-file: /ol-ocw-studio-app/courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/fd23d6f0e79bc9b7e4dc9522573e8411_quiz1_rev_prob.pdf
+file: /courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/fd23d6f0e79bc9b7e4dc9522573e8411_quiz1_rev_prob.pdf
 file_size: 53515
 file_type: application/pdf
 learning_resource_types:
