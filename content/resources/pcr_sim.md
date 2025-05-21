@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/f94b1b4947bd8e099ec55046d508ee06_pcr_sim.m
+file: /courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/f94b1b4947bd8e099ec55046d508ee06_pcr_sim.m
 file_size: 7547
 file_type: text/x-objcsrc
 learning_resource_types: []
